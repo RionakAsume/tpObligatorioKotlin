@@ -8,6 +8,7 @@ import androidx.appcompat.app.AppCompatActivity
 import java.text.NumberFormat
 import java.util.Locale
 
+
 class MainActivity : AppCompatActivity() {
 
     // las vistas como propiedades de la clase para acceder a ellas
